@@ -4,6 +4,8 @@
 
 💬 My Session ID: `05361b384903ca626108d3fb55243d48e0ea470d044210a03726d52e965e21221b`
 
+<img src="https://www.codewars.com/users/UnlessEnduring/badges/large">
+
 ---
 
 ❤️ Special love for
@@ -24,10 +26,6 @@
 ![image](./images/PHP.svg) ![image](./images/LARAVEL.svg) ![image](./images/JAVASCRIPT.svg)
 ![image](./images/HTML5.svg) ![image](./images/CSS3.svg) ![image](./images/ADONIS%20JS.svg)
 ![image](./images/VUE%20JS.svg)
-
----
-
-<img src="https://www.codewars.com/users/UnlessEnduring/badges/large">
 
 ---
 
