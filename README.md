@@ -8,40 +8,22 @@
 
 ❤️ Special love for
 
-![image](./images/RUST.svg)
-<span>&nbsp;</span>
+![image](./images/RUST.svg) <span>&nbsp;</span>
 
-<details>
-<summary>🥱 Other languages i use</summary>
+🥱 Other languages i use
 
-![image](./images/C++.svg)
-![image](./images/C.svg)
-![image](./images/JAVA.svg)
+![image](./images/C++.svg) ![image](./images/C.svg) ![image](./images/JAVA.svg)
 ![image](./images/KOTLIN.svg)
 
-</details>
-<span>&nbsp;</span>
-<details>
-<summary>🛠️ Other tools i use</summary>
+🛠️ Other tools i use
 
-![image](./images/LINUX.svg)
-![image](./images/VSCODE.svg)
-![image](./images/GIT.svg)
+![image](./images/LINUX.svg) ![image](./images/VSCODE.svg) ![image](./images/GIT.svg)
 
-</details>
-<span>&nbsp;</span>
-<details>
-<summary>⌛ Previous experience in</summary>
+⌛ Previous experience in
 
-![image](./images/PHP.svg)
-![image](./images/LARAVEL.svg)
-![image](./images/JAVASCRIPT.svg)
-![image](./images/HTML5.svg)
-![image](./images/CSS3.svg)
-![image](./images/ADONIS%20JS.svg)
+![image](./images/PHP.svg) ![image](./images/LARAVEL.svg) ![image](./images/JAVASCRIPT.svg)
+![image](./images/HTML5.svg) ![image](./images/CSS3.svg) ![image](./images/ADONIS%20JS.svg)
 ![image](./images/VUE%20JS.svg)
-
-</details>
 
 ---
 
