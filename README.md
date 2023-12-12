@@ -5,7 +5,7 @@
 💬 My Session ID: `05361b384903ca626108d3fb55243d48e0ea470d044210a03726d52e965e21221b`
 
 <a href="https://www.codewars.com/users/UnlessEnduring/">
-    <img src="https://www.codewars.com/users/UnlessEnduring/badges/small">
+    <img src="https://www.codewars.com/users/UnlessEnduring/badges/large">
 </a>
 
 ---
