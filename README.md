@@ -1,29 +1,26 @@
-💾 A Man born in the 90s
+💾 A Man born in 1996
+
+📅 Have been programming since 2018
+
+🚀 Focusing now on creating safe resource efficient programs using [Rust](https://www.rust-lang.org/)
+
+🌐 Was previously working as a web developer
 
 ✉️ My Mail: 7snuirzlb@mozmail.com
 
- <!-- 🔗 You can contact me via [Session](https://getsession.org/) -->
+---
 
-<!-- 💬 My Session ID: `05361b384903ca626108d3fb55243d48e0ea470d044210a03726d52e965e21221b` -->
+⚔️ My Codewars account:
 
 <a href="https://www.codewars.com/users/UnlessEnduring/">
-    <img src="https://www.codewars.com/users/UnlessEnduring/badges/large">
+    <img src="https://www.codewars.com/users/UnlessEnduring/badges/small">
 </a>
 
 ---
 
-❤️ Special love for
+🛠️ Tools i currently use
 
-![image](./images/RUST.svg) <span>&nbsp;</span>
-
-🥱 Other languages i use
-
-![image](./images/C++.svg) ![image](./images/C.svg) ![image](./images/JAVA.svg)
-![image](./images/KOTLIN.svg)
-
-🛠️ Other tools i use
-
-![image](./images/LINUX.svg) ![image](./images/VSCODE.svg) ![image](./images/GIT.svg)
+![image](./images/RUST.svg) ![image](./images/C++.svg) ![image](./images/C.svg) ![image](./images/LINUX.svg)
 
 ⌛ Previous experience in
 
@@ -33,15 +30,13 @@
 
 ---
 
-📚 Useful resources for learning Programming:
+📚 Useful resources to learn Programming:
 
 [Learn C++](https://www.learncpp.com/)
 
 [Learn Rust page](https://www.rust-lang.org/learn)
 
 [Rust Learning](https://github.com/ctjhoa/rust-learning)
-
-[ChatGPT](https://chat.openai.com/)
 
 ---
 
