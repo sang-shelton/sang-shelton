@@ -2,9 +2,9 @@
 
 📅 Have been programming since 2018
 
-🚀 Focusing now on creating safe resource efficient programs using [Rust](https://www.rust-lang.org/)
+🚀 Now focusing on creating safe resource efficient programs using [Rust](https://www.rust-lang.org/)
 
-🌐 Was previously working as a web developer
+🌐 Was previously a Web Developer
 
 ✉️ My Mail: 7snuirzlb@mozmail.com
 
