@@ -30,7 +30,7 @@
 
 ---
 
-📚 Useful resources to learn Programming:
+📚 Useful resources to learn Programming
 
 [Learn C++](https://www.learncpp.com/)
 
