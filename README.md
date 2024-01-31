@@ -10,7 +10,7 @@
 
 ---
 
-⚔️ My Codewars account:
+⚔️ My Codewars account
 
 <a href="https://www.codewars.com/users/UnlessEnduring/">
     <img src="https://www.codewars.com/users/UnlessEnduring/badges/small">
