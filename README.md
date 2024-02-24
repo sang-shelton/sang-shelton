@@ -30,16 +30,20 @@
 
 ---
 
-📚 Useful resources to learn Programming
+📚 Useful resources for learning Programming
 
 [Learn C++](https://www.learncpp.com/)
 
-[Learn Rust page](https://www.rust-lang.org/learn)
+[Learn Rust](https://www.rust-lang.org/learn)
 
 [Rust Learning](https://github.com/ctjhoa/rust-learning)
 
 ---
 
+<a href="http://www.wtfpl.net/">
+    <img src="./images/rewrite_It_In_rust.jpeg" alt="wtfpl" width="90"/>
+</a>
+<span>&nbsp;</span>
 <a href="https://www.oshwa.org/">
     <img src="./images/oshw-logo.svg" alt="wtfpl" width="90"/>
 </a>
