@@ -2,7 +2,7 @@
 
 📅 Have been programming since 2018
 
-🚀 Focusing on creating safe and fast programs using [Rust](https://www.rust-lang.org/)
+🚀 Creating safe fast programs using [Rust](https://www.rust-lang.org/)
 
 🌐 Was previously a Web Developer
 
