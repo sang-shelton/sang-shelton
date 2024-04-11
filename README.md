@@ -2,13 +2,54 @@
 
 📅 Have been programming since 2018
 
-🚀 Creating safe fast programs using [Rust](https://www.rust-lang.org/)
+🚀 I love creating safe fast programs using [Rust](https://www.rust-lang.org/)
 
 🌐 Was previously a Web Developer
+
+---
 
 💬 SimpleX: [contact](https://simplex.chat/contact#/?v=2-4&smp=smp%3A%2F%2FUkMFNAXLXeAAe0beCa4w6X_zp18PwxSaSjY17BKUGXQ%3D%40smp12.simplex.im%2FJGIbEOAyetaLlfwZwB34VOt1nEhAxzdX%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAUpTFjvkHa63Agy2NFaUkp6fE_al1Q0sgctr3SckmpDw%253D%26srv%3Die42b5weq7zdkghocs3mgxdjeuycheeqqmksntj57rmejagmg4eor5yd.onion)
 
 ✉️ Mail: 7snuirzlb@mozmail.com
+
+🔐 PGP:
+<details><summary>Key</summary>
+<p>
+
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mQINBGYYMa8BEADos2IDEmgE6nilOEqCVcBhM/U4Ra3CRwbM4OjaG/Dps0uLT6hQ
+d9eD9su/yGp7gFaNOtuA/aPct7VxI5BYlNOpMWaG42un/TTdufWFG8vBuabrnQBn
+jQ8RagOnQAVf8GLV68cDLGr8Q5BugQ9b3hY5jEXpVl7eaE5TaKPAOsvYhtCfEWnk
+Wcasqx2I1p6g42KnD7RsZtgtT29DVr54zwT6kAucHpVfzo1II0T2X6pYQDsxNfCG
+iLq7uAd+yKqCAYo9pnbrT9t5JG8/ebmBwnZh/qyeHyRXYF73OO2X935w7fiUrt4u
+H9UbSB4GcmnJvnNJurmEy9DpXLs/yAdybC540MmDCwFAwykGyWgGxft3oMRQ7Mtx
+FMVAHstnxo1PapgJAZhlT92EkcQxn5DS926VI9ZFxuk7sbdFqIP6lkPQCVByUOvE
+N4Vbr1B+a/3/G5BKYaEFzmINSwt8r8cF0XQ45UCCYLcbD9Jnf++kM+o5+MRcuI+8
+OS7UxKVNx+XCLPLsp3paJML6ztEMVeW6+MGXoCL4mj6XCoEsopelqeBh1qopONeg
+RepuUsHA3owLfpS/5KHF5ptF+eymDlg4Yy9BK+Hxtq/6rlWnTHwvBRhMHPf5uf/G
+PwYS35LMIVjw46qyZ4Hr78PvduHh0wY8wWBnNyUtDVXEcRE4uoJwRjXJIwARAQAB
+tCtzYW5nLXNoZWx0b24oZ2l0aHViKTw3c251aXJ6bGJAbW96bWFpbC5jb20+iQJO
+BBMBCAA4FiEE/AgB8Kjy8wGq0NY24kA+LoCt+FkFAmYYMa8CGy8FCwkIBwIGFQoJ
+CAsCBBYCAwECHgECF4AACgkQ4kA+LoCt+FlGrRAAvjj/NfEvi/bFv8zWCAjMU5eX
+mvGOidFshthHz4soZ99E5pXa82m9AzaH3GHkTCQ1zrLMHauemkDmJTf/u9Mtad5O
+oq9nRfNui5Rke/jz9qDZjbOe8YbUhcQYKvPe5mUIgQYlq3xWRxPCvG/Q6S4LFWoJ
+snWhrqaOMqCWn8LucT7mhXy+9+1KHBl5+I5hMsQFCpeufv7Wn2ZItvqeMMYbmefq
+/Fi25ixreubrWycNxnufDEWvEP2RKlbTW61gq8hapYyJ8kKRMbxoyNn6dtRJp+Ul
+JsXIZuzsV0+lOIE3FRxI8694O/ZFAuNeOu9jQbiOLpemkVjcmYJvo01akURoxGBu
+jaC2hhWh7wWxVcUYHAsFU2Pq6RGiIBe/lYSqRqicDJQ6e7+XfkLvPsAb3JiPtZKN
+7oY4l0QOFAgDZ0gbdUx2wtzTswBh54T25f1c+VjVZsgetTYhYVrEyCklp/4xyGz7
+QTtZG/WUvxTgNh4EFnyKNp17qcVNXiC9BrgJTy9fbW+glgwkaOxxqHMme0XjwUW4
+LSLK1HHq3IVpRI912PoX5Nqg5eWne5J+g8Enh1MG/1FCaXblnWm7U740xNGXAjR6
+BtjC9o2DsDK+locJOFoGs7zKDczzsbbROQf+kleZAkbLhE62M2nZnyVRbb4uEL+V
+gytCb9x7e2RKDd/+yL4=
+=SzAl
+-----END PGP PUBLIC KEY BLOCK-----
+```
+
+</p>
+</details> 
 
 ---
 
