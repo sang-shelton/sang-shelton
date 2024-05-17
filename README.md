@@ -8,8 +8,6 @@
 
 ---
 
-💬 SimpleX: [contact](https://simplex.chat/contact#/?v=2-4&smp=smp%3A%2F%2FUkMFNAXLXeAAe0beCa4w6X_zp18PwxSaSjY17BKUGXQ%3D%40smp12.simplex.im%2FJGIbEOAyetaLlfwZwB34VOt1nEhAxzdX%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAUpTFjvkHa63Agy2NFaUkp6fE_al1Q0sgctr3SckmpDw%253D%26srv%3Die42b5weq7zdkghocs3mgxdjeuycheeqqmksntj57rmejagmg4eor5yd.onion)
-
 ✉️ Mail: 7snuirzlb@mozmail.com
 
 🔐 PGP:
