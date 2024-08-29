@@ -11,6 +11,7 @@
 ✉️ Mail: 7snuirzlb@mozmail.com
 
 🔐 PGP:
+
 <details><summary>Key</summary>
 <p>
 
@@ -47,7 +48,7 @@ gytCb9x7e2RKDd/+yL4=
 ```
 
 </p>
-</details> 
+</details>
 
 ---
 
@@ -78,6 +79,13 @@ gytCb9x7e2RKDd/+yL4=
 [Learn Rust](https://www.rust-lang.org/learn)
 
 [Rust Learning](https://github.com/ctjhoa/rust-learning)
+
+---
+
+![image](./images/MONERO.svg)
+
+My Monero address if you wanna support me:
+82fk8CvnSG8JQ9t3MZTUJSQT8a95Ue33X1ZjU6DawFT7DKyVSjKQbDYKkJHG5qS81ehux5TF9MTtLPQGWjevNM37Hpq4aw5
 
 ---
 
