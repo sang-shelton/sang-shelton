@@ -62,7 +62,7 @@ gytCb9x7e2RKDd/+yL4=
 
 🛠️ Tools i currently use
 
-![image](./images/RUST.svg) ![image](./images/C++.svg) ![image](./images/C.svg) ![image](./images/LINUX.svg)
+![image](./images/RUST.svg) ![image](./images/DART.svg) ![image](./images/FLUTTER.svg) ![image](./images/C++.svg) ![image](./images/C.svg) ![image](./images/LINUX.svg)
 
 ⌛ Previous experience in
 
