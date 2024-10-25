@@ -82,14 +82,6 @@ gytCb9x7e2RKDd/+yL4=
 
 ---
 
-![image](./images/MONERO.svg)
-
-My Monero address if you wanna support me:
-
-82fk8CvnSG8JQ9t3MZTUJSQT8a95Ue33X1ZjU6DawFT7DKyVSjKQbDYKkJHG5qS81ehux5TF9MTtLPQGWjevNM37Hpq4aw5
-
----
-
 <a href="http://www.wtfpl.net/">
     <img src="./images/rewrite_It_In_rust.jpeg" alt="wtfpl" width="90"/>
 </a>
