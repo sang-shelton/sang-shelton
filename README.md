@@ -52,14 +52,6 @@ gytCb9x7e2RKDd/+yL4=
 
 ---
 
-⚔️ My Codewars account
-
-<a href="https://www.codewars.com/users/UnlessEnduring/">
-    <img src="https://www.codewars.com/users/UnlessEnduring/badges/small">
-</a>
-
----
-
 🛠️ Tools i currently use
 
 ![image](./images/RUST.svg) ![image](./images/DART.svg) ![image](./images/FLUTTER.svg) ![image](./images/C++.svg) ![image](./images/C.svg) ![image](./images/LINUX.svg)
